@@ -1,0 +1,15 @@
+﻿  prog.c
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(44,20): warning C4090: 'function': different 'const' qualifiers
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(58,28): warning C4090: 'function': different 'const' qualifiers
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(70,23): warning C4133: 'function': incompatible types - from 'DIR *' to 'const char *'
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(24,14): warning C4100: 'argc': unreferenced formal parameter
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(190,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(191,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(227,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(228,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(261,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(262,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(295,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(296,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\nativ\source\repos\antiVirus\antiVirus\prog.c(151,54): warning C4100: 'log': unreferenced formal parameter
+  antiVirus.vcxproj -> C:\Users\nativ\source\repos\antiVirus\Debug\antiVirus.exe
